@@ -6,4 +6,4 @@ Test-1 for git
 In this test i woould like to try some features of vs code related to gihub
 Add something else.
 
-Lets do something else with mustake :)
+Lets do something else with mistake.
